@@ -4,7 +4,7 @@
 
 Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc): 
 
-**A_AA01A.txt**
+**A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo)
 
 TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD (PT-BR) 
 
