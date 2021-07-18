@@ -23,7 +23,7 @@ Been asking myself that same question for the last month. I don't know. Probably
 
 **"Why Brazilian Portuguese?"**
 
-The question should be why English, I only considered the idea because I would have another Ookamikakushi fan and fellow friend giving me a hand, and that would be to exclusively in Portuguese in that case. But I thought it would be fine to just go the extra mile and work on an English version as well at that point, even because more people would be able to read this hidden gem.
+The question should be why English, I only considered the idea because I would have another Ookamikakushi fan and fellow friend giving me a hand, and that would be exclusively in Brazilian Portuguese in that case. But I thought it would be fine to just go the extra mile and work on an English version as well at that point, even because more people would be able to read this hidden gem.
 
 **"It this as bad as the anime for it?"**
 
