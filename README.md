@@ -21,6 +21,14 @@ This game has multiple routes expanding for multiple arcs, and every single one 
 
 Been asking myself that same question for the last month. I don't know. Probably wasted too much time in this to just walk away now.
 
+**"Why Brazilian Portuguese?"**
+
+The question should be why English, I only considered the idea because I would have another Ookamikakushi fan and fellow friend giving me a hand, and that would be to exclusively in Portuguese in that case. But I thought it would be fine to just go the extra mile and work on an English version as well at that point, even because more people would be able to read this hidden gem.
+
+**"It this as bad as the anime for it?"**
+
+Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough said. I would disconsider it altogether and recommend you not to touch it, it doesn't even make sense, which C;C at least somewhat does.
+
 ## Progress Status
 
 Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc): 
