@@ -1,6 +1,25 @@
-# Ookamikakushi-TL
+# Ookamikakushi Translation Project (English/Brazilian Portuguese)
 
->Overall Progress
+Progress for whichever languages will solely depend on how much help I can get from people in a given language checking and pointing out stuff for me to fix. Because of that, expect progress to be made quicker in Brazilian Portuguese, as my only partner for this project right now is a friend of mine who is not really especialized in English.
+
+This game has a shit ton of particularly formatted text to work in NVL and ADV (which it does just fine in Japanese with some of the line separation), but I can expect HELL once I begin editing the text in a particular way so that it manually fits the screen in-game. The software I used to even do anything in this is a miracle on itself, and yet it has quite a few limitations and depends on trial and error to see if the text will or won't fit BOTH MODES. In a worst case scenario, you can bet I'll drop that portion altogether and stick with what I have, unless some kind dev/hacker would be willing to share a better alternative to what I'm using to implement changes in the UMD files.
+
+For now I'm just leaving the text aside to implement it in with the software I have later (it's the one used for Toradora Portable's translation, which is a VN from the same team of devs that brought us both Oreimo and Ookamikakushi to the PSP, so that does kinda work, luckily enough). The fact I'm a negation when it comes to programming and at times technology in general won't do this project any favors, so be aware of that as well (though, I gathered a bunch of knowledge in the last month trying to figure out this whole thing to even begin translating, so there's also that).
+
+This game has multiple routes expanding for multiple arcs, and every single one of those arcs have a fair number of chapters. This is a really long game overall and despite being fairly linear in that regard, the script files alone for every chapter totalize 276 separated files to be manually messed with in order to even fit the screen because of the stupidly huge default fonts (which I just can't find a way to change). In short, don't expect this to come out any time soon, even because I also have a busy life myself (but I'm willing to translate this, since nobody else will ever bother to lol).
+
+###### FAQ from people that know me:
+**"Why not just make it in video and put it in some platform like YT?"**
+
+1- I tried, not my thing (even if just reading out loud).
+2- This game just doesn't work as intended if experienced like that, because of the actpedia constant updates with clues and relevant info about everything.
+3- I don't feel like doing video editing stuff and subs because I'm burned out from it for a while now.
+
+**"Why didn't you just give up on this? It's madness!"**
+
+Been asking myself that same question for the last month. I don't know. Probably wasted too much time in this to just walk away now.
+
+## Progress Status
 
 Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc): 
 
