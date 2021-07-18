@@ -27,7 +27,7 @@ The question should be why English, I only considered the idea because I would h
 
 **"It this as bad as the anime for it?"**
 
-Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough said. I would disconsider it altogether and recommend you not to touch it, it doesn't even make sense, which C;C at least somewhat does.
+Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough said. I would disconsider it altogether and recommend you not to touch it, it will outright ruin the entire plot and reveals, and overall it doesn't even make too much sense, which C;C anime at least somewhat does.
 
 ## Progress Status
 
