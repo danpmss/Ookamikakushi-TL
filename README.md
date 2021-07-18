@@ -1,10 +1,14 @@
 # Ookamikakushi-TL
 
->Overall Progress:
+>Overall Progress
+
+Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc): 
 
 **A_AA01A.txt**
 
-TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD
+TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD (PT-BR) 
+
+TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD (ENG)
 
 A_AA02A.txt
 
