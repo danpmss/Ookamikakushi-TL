@@ -1,8 +1,10 @@
 # Ookamikakushi-TL
 
->Progress:
+>Overall Progress:
 
-A_AA01A.txt | TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD
+**A_AA01A.txt**
+
+TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD
 
 A_AA02A.txt
 
