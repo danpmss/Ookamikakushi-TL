@@ -12,7 +12,9 @@ This game has multiple routes expanding for multiple arcs, and every single one 
 **"Why not just make it in video and put it in some platform like YT?"**
 
 1- I tried, not my thing (even if just reading out loud).
+
 2- This game just doesn't work as intended if experienced like that, because of the actpedia constant updates with clues and relevant info about everything.
+
 3- I don't feel like doing video editing stuff and subs because I'm burned out from it for a while now.
 
 **"Why didn't you just give up on this? It's madness!"**
