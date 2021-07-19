@@ -55,7 +55,6 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
 
 
-
 B_AA02A.txt
 
 B_AA03A.txt
@@ -252,7 +251,7 @@ B_EB02A.txt
 
 B_EB03A.txt
 
-C_BA01A.txt
+|Orizuruhimenomikoto-hen| **C_BA01A.txt** (Father and Daughter)|0/133|0/133|0/133|
 
 C_BA02A.txt
 
