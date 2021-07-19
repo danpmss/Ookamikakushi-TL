@@ -6,7 +6,7 @@ This game has a shit ton of particularly formatted text to work in NVL and ADV (
 
 For now I'm just leaving the text aside to implement it in with the software I have later (it's the one used for Toradora Portable's translation, which is a VN from the same team of devs that brought us both Oreimo and Ookamikakushi to the PSP, so that does kinda work, luckily enough). The fact I'm a negation when it comes to programming and at times technology in general won't do this project any favors, so be aware of that as well (though, I gathered a bunch of knowledge in the last month trying to figure out this whole thing to even begin translating, so there's also that).
 
-This game has multiple routes expanding for multiple arcs, and every single one of those arcs have a fair number of chapters. This is a really long game overall and despite being fairly linear in that regard, the script files alone for every chapter totalize 276 separated files to be manually messed with in order to even fit the screen because of the stupidly huge default fonts (which I just can't find a way to change). In short, don't expect this to come out any time soon, even because I also have a busy life myself (but I'm willing to translate this, since nobody else will ever bother to lol).
+This game has multiple routes expanding for multiple arcs, and every single one of those arcs have a fair number of chapters. This is a really long game overall and despite being fairly linear in that regard, the script files alone for every chapter totalize 176 separated files to be manually messed with in order to even fit the screen because of the stupidly huge default fonts (which I just can't find a way to change). In short, don't expect this to come out any time soon, even because I also have a busy life myself (but I'm willing to translate this, since nobody else will ever bother to lol).
 
 ###### FAQ from people that know me:
 **"Why not just make it in video and put it in some platform like YT?"**
@@ -34,7 +34,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 | Arc                                       | Chapters                                                          | Translation (lines)              | TL Check  | Editing |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
 | Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
-|                                           |  **A_AA02A.txt**                                                  |          x/y                     | x/y       | x/y     |
+|| **A_AA02A.txt** (School/Escola) |0/413|0/413|0/413|
 ||**A_AA03A.txt**||||
 ||**A_AA04A.txt**||||
 ||**A_AA05A.txt**||||
