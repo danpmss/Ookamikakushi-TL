@@ -31,15 +31,17 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 
 ## Progress Status
 
-Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc): 
+| Arc                                       | Chapters                                                          | Translation (lines)              | TL Check  | Editing |
+| ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
+| Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc)|  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
+|                                           |  **A_AA02A.txt**                                                  |                                  | x/y       | x/y     |
 
-**A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo)
 
-TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD (ENG)
 
-TL (102/454 lines) | TLQC (0/454) | Editing (0/454) | Progress: TBD (PT-BR) 
+ 
 
-A_AA02A.txt
+
+
 
 A_AA03A.txt
 
