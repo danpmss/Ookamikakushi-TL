@@ -36,22 +36,22 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 | Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
 || **A_AA02A.txt** (School/Escola) |0/413|0/413|0/413|
 ||**A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
-||**A_AA04A.txt** (Mountain/Montanha)|0/481|0/481|0/481|
-||**A_AA05A.txt** (Hospital)|0/275|0/275|0/275|
-||**A_AA06A.txt** (Howl/Uivo)|0/77|0/77|0/77|
-||**A_AA07A.txt**||||
-||**A_AA08A.txt**||||
-||**A_AA09A.txt**||||
-||**A_AA09B.txt**||||
-||**A_AA10A.txt**||||
-||**A_AA10B.txt**||||
-||**A_AA11A.txt**||||
-||**A_AA11B.txt**||||
-||**A_AA12A.txt**||||
-||**A_AA12B.txt**||||
-||**A_AA12C.txt**||||
-||**A_AA13A.txt**||||
-||**A_AA14A.txt**||||
+||**A_AA04A.txt** (Mountain/Montanha) |0/481|0/481|0/481|
+||**A_AA05A.txt** (Hospital) |0/275|0/275|0/275|
+||**A_AA06A.txt** (Howl/Uivo) |0/77|0/77|0/77|
+||**A_AA07A.txt** (Urban Legend/Lenda Urbana) |0/217|0/217|0/217|
+||**A_AA08A.txt** (Something/Algo) |0/200|0/200|0/200|
+||**A_AA09A.txt** (Sleep/Dormir) |0/259|0/259|0/259|
+||**A_AA09B.txt** (Sleep/Dormir) |0/117|0/117|0/117|
+||**A_AA10A.txt** (Moved Out/Mudou de Casa) |0/203|0/203|0/203|
+||**A_AA10B.txt** (Moved Out/Mudou de Casa) |0/304|0/304|0/304|
+||**A_AA11A.txt** (Obstruction/Obstrução) |0/92|0/92|0/92|
+||**A_AA11B.txt** (Obstruction/Obstrução) |0/139|0/139|0/139|
+||**A_AA12A.txt** (Legitimate Self-Defense/Legítima Defesa) |0/295|0/295|0/295|
+||**A_AA12B.txt** (Legitimate Self-Defense/Legítima Defesa) |0/212|0/212|0/212|
+||**A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261|0/261|0/261|
+||**A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
+||**A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt**||||
 
 
