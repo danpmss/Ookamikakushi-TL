@@ -35,126 +35,84 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
 | Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
 || **A_AA02A.txt** (School/Escola) |0/413|0/413|0/413|
-||**A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
-||**A_AA04A.txt** (Mountain/Montanha) |0/481|0/481|0/481|
-||**A_AA05A.txt** (Hospital) |0/275|0/275|0/275|
-||**A_AA06A.txt** (Howl/Uivo) |0/77|0/77|0/77|
-||**A_AA07A.txt** (Urban Legend/Lenda Urbana) |0/217|0/217|0/217|
-||**A_AA08A.txt** (Something/Algo) |0/200|0/200|0/200|
-||**A_AA09A.txt** (Sleep/Dormir) |0/259|0/259|0/259|
-||**A_AA09B.txt** (Sleep/Dormir) |0/117|0/117|0/117|
-||**A_AA10A.txt** (Moved Out/Mudou de Casa) |0/203|0/203|0/203|
-||**A_AA10B.txt** (Moved Out/Mudou de Casa) |0/304|0/304|0/304|
-||**A_AA11A.txt** (Obstruction/Obstrução) |0/92|0/92|0/92|
-||**A_AA11B.txt** (Obstruction/Obstrução) |0/139|0/139|0/139|
-||**A_AA12A.txt** (Legitimate Self-Defense/Legítima Defesa) |0/295|0/295|0/295|
-||**A_AA12B.txt** (Legitimate Self-Defense/Legítima Defesa) |0/212|0/212|0/212|
-||**A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261|0/261|0/261|
-||**A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
-||**A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
+|| **A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
+|| **A_AA04A.txt** (Mountain/Montanha) |0/481|0/481|0/481|
+|| **A_AA05A.txt** (Hospital) |0/275|0/275|0/275|
+|| **A_AA06A.txt** (Howl/Uivo) |0/77|0/77|0/77|
+|| **A_AA07A.txt** (Urban Legend/Lenda Urbana) |0/217|0/217|0/217|
+|| **A_AA08A.txt** (Something/Algo) |0/200|0/200|0/200|
+|| **A_AA09A.txt** (Sleep/Dormir) |0/259|0/259|0/259|
+|| **A_AA09B.txt** (Sleep/Dormir) |0/117|0/117|0/117|
+|| **A_AA10A.txt** (Moved Out/Mudou de Casa) |0/203|0/203|0/203|
+|| **A_AA10B.txt** (Moved Out/Mudou de Casa) |0/304|0/304|0/304|
+|| **A_AA11A.txt** (Obstruction/Obstrução) |0/92|0/92|0/92|
+|| **A_AA11B.txt** (Obstruction/Obstrução) |0/139|0/139|0/139|
+|| **A_AA12A.txt** (Legitimate Self-Defense/Legítima Defesa) |0/295|0/295|0/295|
+|| **A_AA12B.txt** (Legitimate Self-Defense/Legítima Defesa) |0/212|0/212|0/212|
+|| **A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261|0/261|0/261|
+|| **A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
+|| **A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
-||**B_AA02A.txt** () |0/X|0/X|0/X|
-||**B_AA03A.txt** () |0/X|0/X|0/X|
-||**B_AA04A.txt** () |0/X|0/X|0/X|
-||**B_BA01A.txt** () |0/X|0/X|0/X|
-||**B_BA01B.txt** () |0/X|0/X|0/X|
-||**B_BA02A.txt** () |0/X|0/X|0/X|
-||**B_BA03A.txt** () |0/X|0/X|0/X|
-||**B_BA04A.txt** () |0/X|0/X|0/X|
-||**B_BA05A.txt** () |0/X|0/X|0/X|
-||**B_BA06A.txt** () |0/X|0/X|0/X|
-||**B_BA07A.txt** () |0/X|0/X|0/X|
-||**B_BA08A.txt** () |0/X|0/X|0/X|
-||**B_BA09A.txt** () |0/X|0/X|0/X|
-||**B_BA10A.txt** () |0/X|0/X|0/X|
-||**B_BA10B.txt** () |0/X|0/X|0/X|
-||**B_BA11A.txt** () |0/X|0/X|0/X|
-||**B_BA12A.txt** () |0/X|0/X|0/X|
-||**B_BA13A.txt** () |0/X|0/X|0/X|
-||**B_BA14A.txt** () |0/X|0/X|0/X|
-||**B_BA15A.txt** () |0/X|0/X|0/X|
-||**B_BA15B.txt** () |0/X|0/X|0/X|
-
-
-
-B_BB01A.txt
-
-B_BB02A.txt
-
-B_BB03A.txt
-
-B_BC01A.txt
-
-B_BC02A.txt
-
-B_BC03A.txt
-
-B_BC04A.txt
-
-B_CA01A.txt
-
-B_CA02A.txt
-
-B_CA03A.txt
-
-B_CA04A.txt
-
-B_CA05A.txt
-
-B_CA06A.txt
-
-B_CA07A.txt
-
-B_CA08A.txt
-
-B_CA08B.txt
-
-B_CA09A.txt
-
-B_CA10A.txt
-
-B_CA11A.txt
-
-B_CA12A.txt
-
-B_CA13A.txt
-
-B_CA13B.txt
-
-B_CA14A.txt
-
-B_CA15B.txt
-
-B_CA18A.txt
-
+|| **B_AA02A.txt** () |0/X|0/X|0/X|
+|| **B_AA03A.txt** () |0/X|0/X|0/X|
+|| **B_AA04A.txt** () |0/X|0/X|0/X|
+|| **B_BA01A.txt** () |0/X|0/X|0/X|
+|| **B_BA01B.txt** () |0/X|0/X|0/X|
+|| **B_BA02A.txt** () |0/X|0/X|0/X|
+|| **B_BA03A.txt** () |0/X|0/X|0/X|
+|| **B_BA04A.txt** () |0/X|0/X|0/X|
+|| **B_BA05A.txt** () |0/X|0/X|0/X|
+|| **B_BA06A.txt** () |0/X|0/X|0/X|
+|| **B_BA07A.txt** () |0/X|0/X|0/X|
+|| **B_BA08A.txt** () |0/X|0/X|0/X|
+|| **B_BA09A.txt** () |0/X|0/X|0/X|
+|| **B_BA10A.txt** () |0/X|0/X|0/X|
+|| **B_BA10B.txt** () |0/X|0/X|0/X|
+|| **B_BA11A.txt** () |0/X|0/X|0/X|
+|| **B_BA12A.txt** () |0/X|0/X|0/X|
+|| **B_BA13A.txt** () |0/X|0/X|0/X|
+|| **B_BA14A.txt** () |0/X|0/X|0/X|
+|| **B_BA15A.txt** () |0/X|0/X|0/X|
+|| **B_BA15B.txt** () |0/X|0/X|0/X|
+|| **B_BB01A.txt** () |0/X|0/X|0/X|
+|| **B_BB02A.txt** () |0/X|0/X|0/X|
+|| **B_BB03A.txt** () |0/X|0/X|0/X|
+|| **B_BC01A.txt** () |0/X|0/X|0/X|
+|| **B_BC02A.txt** () |0/X|0/X|0/X|
+|| **B_BC03A.txt** () |0/X|0/X|0/X|
+|| **B_BC04A.txt** () |0/X|0/X|0/X|
+|| **B_CA01A.txt** () |0/X|0/X|0/X|
+|| **B_CA02A.txt** () |0/X|0/X|0/X|
+|| **B_CA03A.txt** () |0/X|0/X|0/X|
+|| **B_CA04A.txt** () |0/X|0/X|0/X|
+|| **B_CA05A.txt** () |0/X|0/X|0/X|
+|| **B_CA06A.txt** () |0/X|0/X|0/X|
+|| **B_CA07A.txt** () |0/X|0/X|0/X|
+|| **B_CA08A.txt** () |0/X|0/X|0/X|
+|| **B_CA08B.txt** () |0/X|0/X|0/X|
+|| **B_CA09A.txt** () |0/X|0/X|0/X|
+|| **B_CA10A.txt** () |0/X|0/X|0/X|
+|| **B_CA11A.txt** () |0/X|0/X|0/X|
+|| **B_CA12A.txt** () |0/X|0/X|0/X|
+|| **B_CA13A.txt** () |0/X|0/X|0/X|
+|| **B_CA13B.txt** () |0/X|0/X|0/X|
+|| **B_CA14A.txt** () |0/X|0/X|0/X|
+|| **B_CA15B.txt** () |0/X|0/X|0/X|
+|| **B_CA18A.txt** () |0/X|0/X|0/X|
 B_CB01A.txt
-
 B_CB02A.txt
-
 B_CB02B.txt
-
 B_CB02C.txt
-
 B_CB03A.txt
-
 B_CB04A.txt
-
 B_CB04B.txt
-
 B_CB05A.txt
-
 B_DA01A.txt
-
 B_DA02A.txt
-
 B_DA03A.txt
-
 B_DA04A.txt
-
 B_DA04B.txt
-
 B_DA04C.txt
-
 B_DA05A.txt
 
 B_DA06A.txt
@@ -317,7 +275,7 @@ C_FA05A.txt
 
 C_FA06A.txt
 
-D_AA01A.txt
+|Kaitou-hen| **D_AA01A.txt** (Beginning/Início) |0/96|0/96|0/96|
 
 D_AA02A.txt
 
@@ -345,4 +303,4 @@ D_AA11A.txt
 
 D_AA12A.txt
 
-StartPoint.txt
+|Miscellaneous| StartPoint.txt | | | |
