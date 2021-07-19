@@ -99,208 +99,113 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 || **B_CA14A.txt** () |0/X|0/X|0/X|
 || **B_CA15B.txt** () |0/X|0/X|0/X|
 || **B_CA18A.txt** () |0/X|0/X|0/X|
-B_CB01A.txt
-B_CB02A.txt
-B_CB02B.txt
-B_CB02C.txt
-B_CB03A.txt
-B_CB04A.txt
-B_CB04B.txt
-B_CB05A.txt
-B_DA01A.txt
-B_DA02A.txt
-B_DA03A.txt
-B_DA04A.txt
-B_DA04B.txt
-B_DA04C.txt
-B_DA05A.txt
-
-B_DA06A.txt
-
-B_DA07A.txt
-
-B_DA07B.txt
-
-B_DA07C.txt
-
-B_DA08A.txt
-
-B_DA08B.txt
-
-B_DA09A.txt
-
-B_DA09B.txt
-
-B_DA09C.txt
-
-B_DB01A.txt
-
-B_DB01B.txt
-
-B_DB01C.txt
-
-B_DD01A.txt
-
-B_DE01A.txt
-
-B_EA01A.txt
-
-B_EA02A.txt
-
-B_EA02B.txt
-
-B_EA03A.txt
-
-B_EA03B.txt
-
-B_EA04A.txt
-
-B_EA05A.txt
-
-B_EA05B.txt
-
-B_EA06A.txt
-
-B_EA07A.txt
-
-B_EA07B.txt
-
-B_EA08A.txt
-
-B_EA09A.txt
-
-B_EA09B.txt
-
-B_EA09C.txt
-
-B_EA10A.txt
-
-B_EA10B.txt
-
-B_EA10C.txt
-
-B_EA11A.txt
-
-B_EA11B.txt
-
-B_EB01A.txt
-
-B_EB02A.txt
-
-B_EB03A.txt
-
+|| B_CB01A.txt
+|| B_CB02A.txt
+|| B_CB02B.txt
+|| B_CB02C.txt
+|| B_CB03A.txt
+|| B_CB04A.txt
+|| B_CB04B.txt
+|| B_CB05A.txt
+|| B_DA01A.txt
+|| B_DA02A.txt
+|| B_DA03A.txt
+|| B_DA04A.txt
+|| B_DA04B.txt
+|| B_DA04C.txt
+|| B_DA05A.txt
+|| B_DA06A.txt
+|| B_DA07A.txt
+|| B_DA07B.txt
+|| B_DA07C.txt
+|| B_DA08A.txt
+|| B_DA08B.txt
+|| B_DA09A.txt
+|| B_DA09B.txt
+|| B_DA09C.txt
+|| B_DB01A.txt
+|| B_DB01B.txt
+|| B_DB01C.txt
+|| B_DD01A.txt
+|| B_DE01A.txt
+|| B_EA01A.txt
+|| B_EA02A.txt
+|| B_EA02B.txt
+|| B_EA03A.txt
+|| B_EA03B.txt
+|| B_EA04A.txt
+|| B_EA05A.txt
+|| B_EA05B.txt
+|| B_EA06A.txt
+|| B_EA07A.txt
+|| B_EA07B.txt
+|| B_EA08A.txt
+|| B_EA09A.txt
+|| B_EA09B.txt
+|| B_EA09C.txt
+|| B_EA10A.txt
+|| B_EA10B.txt
+|| B_EA10C.txt
+|| B_EA11A.txt
+|| B_EA11B.txt
+|| B_EB01A.txt
+|| B_EB02A.txt
+|| B_EB03A.txt
 | Orizuruhimenomikoto-hen | **C_BA01A.txt** (Father and Daughter/Pai e Filha) |0/133|0/133|0/133|
-
-C_BA02A.txt
-
-C_BA03A.txt
-
-C_BA04A.txt
-
-C_BA05A.txt
-
-C_BA06A.txt
-
-C_BA07A.txt
-
-C_BA08A.txt
-
-C_BA09A.txt
-
-C_BA10A.txt
-
-C_BA11A.txt
-
-C_BA12A.txt
-
+|| C_BA02A.txt
+|| C_BA03A.txt
+|| C_BA04A.txt
+|| C_BA05A.txt
+|| C_BA06A.txt
+|| C_BA07A.txt
+|| C_BA08A.txt
+|| C_BA09A.txt
+|| C_BA10A.txt
+|| C_BA11A.txt
+|| C_BA12A.txt
 | Aibetsuriku-hen | **C_CA01A.txt** (Bud/Broto) |0/79|0/79|0/79|
-
-C_CA02A.txt
-
-C_CA03A.txt
-
-C_CA04A.txt
-
-C_CA05A.txt
-
-C_CA06A.txt
-
-C_CA07A.txt
-
-C_CA08A.txt
-
-C_CA09A.txt
-
-C_CA10A.txt
-
-C_CA11A.txt
-
-C_CA12A.txt
-
-C_CA13A.txt
-
-C_CA14A.txt
-
+|| C_CA02A.txt
+|| C_CA03A.txt
+|| C_CA04A.txt
+|| C_CA05A.txt
+|| C_CA06A.txt
+|| C_CA07A.txt
+|| C_CA08A.txt
+|| C_CA09A.txt
+|| C_CA10A.txt
+|| C_CA11A.txt
+|| C_CA12A.txt
+|| C_CA13A.txt
+|| C_CA14A.txt
 | Fukushuuhonryuu-hen | **C_EA01A.txt** (Visit/Visita) |0/193|0/193|0/193|
-
-C_EA01B.txt
-
-C_EA02A.txt
-
-C_EA02B.txt
-
-C_EA03A.txt
-
-C_EA04A.txt
-
-C_EA05A.txt
-
-C_EA06A.txt
-
-C_EA07A.txt
-
-C_EA08A.txt
-
-C_EA09A.txt
-
+|| C_EA01B.txt
+|| C_EA02A.txt
+|| C_EA02B.txt
+|| C_EA03A.txt
+|| C_EA04A.txt
+|| C_EA05A.txt
+|| C_EA06A.txt
+|| C_EA07A.txt
+|| C_EA08A.txt
+|| C_EA09A.txt
 | Include in | **C_FA01A.txt** (Sin/Pecado) |0/183|0/183|0/183|
-
-C_FA02A.txt
-
-C_FA03A.txt
-
-C_FA04A.txt
-
-C_FA05A.txt
-
-C_FA06A.txt
-
+|| C_FA02A.txt
+|| C_FA03A.txt
+|| C_FA04A.txt
+|| C_FA05A.txt
+|| C_FA06A.txt
 |Kaitou-hen| **D_AA01A.txt** (Beginning/Início) |0/96|0/96|0/96|
-
-D_AA02A.txt
-
-D_AA03A.txt
-
-D_AA04A.txt
-
-D_AA05A.txt
-
-D_AA06A.txt
-
-D_AA07A.txt
-
-D_AA08A.txt
-
-D_AA08B.txt
-
-D_AA08C.txt
-
-D_AA09A.txt
-
-D_AA10A.txt
-
-D_AA11A.txt
-
-D_AA12A.txt
-
-|Miscellaneous| StartPoint.txt | | | |
+|| D_AA02A.txt
+|| D_AA03A.txt
+|| D_AA04A.txt
+|| D_AA05A.txt
+|| D_AA06A.txt
+|| D_AA07A.txt
+|| D_AA08A.txt
+|| D_AA08B.txt
+|| D_AA08C.txt
+|| D_AA09A.txt
+|| D_AA10A.txt
+|| D_AA11A.txt
+|| D_AA12A.txt
+| Miscellaneous | StartPoint.txt | | | |
