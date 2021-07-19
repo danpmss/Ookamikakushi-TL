@@ -34,48 +34,25 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 | Arc                                       | Chapters                                                          | Translation (lines)              | TL Check  | Editing |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
 | Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc)|  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
-|                                           |  **A_AA02A.txt**                                                  |                                  | x/y       | x/y     |
+|                                           |  **A_AA02A.txt**                                                  |          x/y                     | x/y       | x/y     |
+||**A_AA03A.txt**||||
+||**A_AA04A.txt**||||
+||**A_AA05A.txt**||||
+||**A_AA06A.txt**||||
+||**A_AA07A.txt**||||
+||**A_AA08A.txt**||||
+||**A_AA09A.txt**||||
+||**A_AA09B.txt**||||
+||**A_AA10A.txt**||||
+||**A_AA10B.txt**||||
+||**A_AA11A.txt**||||
+||**A_AA11B.txt**||||
+||**A_AA12A.txt**||||
+||**A_AA12B.txt**||||
+||**A_AA12C.txt**||||
+||**A_AA13A.txt**||||
+||**A_AA14A.txt**||||
 
-
-
- 
-
-
-
-
-A_AA03A.txt
-
-A_AA04A.txt
-
-A_AA05A.txt
-
-A_AA06A.txt
-
-A_AA07A.txt
-
-A_AA08A.txt
-
-A_AA09A.txt
-
-A_AA09B.txt
-
-A_AA10A.txt
-
-A_AA10B.txt
-
-A_AA11A.txt
-
-A_AA11B.txt
-
-A_AA12A.txt
-
-A_AA12B.txt
-
-A_AA12C.txt
-
-A_AA13A.txt
-
-A_AA14A.txt
 
 B_AA01A.txt
 
