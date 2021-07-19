@@ -38,7 +38,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 ||**A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
 ||**A_AA04A.txt** (Mountain/Montanha)|0/481|0/481|0/481|
 ||**A_AA05A.txt** (Hospital)|0/275|0/275|0/275|
-||**A_AA06A.txt**||||
+||**A_AA06A.txt** (Howl/Uivo)|0/77|0/77|0/77|
 ||**A_AA07A.txt**||||
 ||**A_AA08A.txt**||||
 ||**A_AA09A.txt**||||
