@@ -53,9 +53,9 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 ||**A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
 ||**A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
+||**B_AA02A.txt** () |0/X|0/X|0/X|
 
 
-B_AA02A.txt
 
 B_AA03A.txt
 
@@ -251,7 +251,7 @@ B_EB02A.txt
 
 B_EB03A.txt
 
-|Orizuruhimenomikoto-hen| **C_BA01A.txt** (Father and Daughter)|0/133|0/133|0/133|
+|Orizuruhimenomikoto-hen| **C_BA01A.txt** (Father and Daughter/Pai e Filha) |0/133|0/133|0/133|
 
 C_BA02A.txt
 
@@ -275,7 +275,7 @@ C_BA11A.txt
 
 C_BA12A.txt
 
-C_CA01A.txt
+|Aibetsuriku-hen| **C_CA01A.txt** (Bud/Broto) |0/79|0/79|0/79|
 
 C_CA02A.txt
 
