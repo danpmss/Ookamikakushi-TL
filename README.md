@@ -33,7 +33,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 
 | Arc                                       | Chapters                                                          | Translation (lines)              | TL Check  | Editing |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
-| Yomotsuhirasaka-hen (Yomotsu Hirasaka Arc)|  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
+| Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
 |                                           |  **A_AA02A.txt**                                                  |          x/y                     | x/y       | x/y     |
 ||**A_AA03A.txt**||||
 ||**A_AA04A.txt**||||
@@ -52,9 +52,9 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 ||**A_AA12C.txt**||||
 ||**A_AA13A.txt**||||
 ||**A_AA14A.txt**||||
+| Goshikizuka-hen（Common Route）|**B_AA01A.txt**||||
 
 
-B_AA01A.txt
 
 B_AA02A.txt
 
