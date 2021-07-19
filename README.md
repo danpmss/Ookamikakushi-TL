@@ -54,48 +54,28 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 ||**A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
 ||**B_AA02A.txt** () |0/X|0/X|0/X|
+||**B_AA03A.txt** () |0/X|0/X|0/X|
+||**B_AA04A.txt** () |0/X|0/X|0/X|
+||**B_BA01A.txt** () |0/X|0/X|0/X|
+||**B_BA01B.txt** () |0/X|0/X|0/X|
+||**B_BA02A.txt** () |0/X|0/X|0/X|
+||**B_BA03A.txt** () |0/X|0/X|0/X|
+||**B_BA04A.txt** () |0/X|0/X|0/X|
+||**B_BA05A.txt** () |0/X|0/X|0/X|
+||**B_BA06A.txt** () |0/X|0/X|0/X|
+||**B_BA07A.txt** () |0/X|0/X|0/X|
+||**B_BA08A.txt** () |0/X|0/X|0/X|
+||**B_BA09A.txt** () |0/X|0/X|0/X|
+||**B_BA10A.txt** () |0/X|0/X|0/X|
+||**B_BA10B.txt** () |0/X|0/X|0/X|
+||**B_BA11A.txt** () |0/X|0/X|0/X|
+||**B_BA12A.txt** () |0/X|0/X|0/X|
+||**B_BA13A.txt** () |0/X|0/X|0/X|
+||**B_BA14A.txt** () |0/X|0/X|0/X|
+||**B_BA15A.txt** () |0/X|0/X|0/X|
+||**B_BA15B.txt** () |0/X|0/X|0/X|
 
 
-
-B_AA03A.txt
-
-B_AA04A.txt
-
-B_BA01A.txt
-
-B_BA01B.txt
-
-B_BA02A.txt
-
-B_BA03A.txt
-
-B_BA04A.txt
-
-B_BA05A.txt
-
-B_BA06A.txt
-
-B_BA07A.txt
-
-B_BA08A.txt
-
-B_BA09A.txt
-
-B_BA10A.txt
-
-B_BA10B.txt
-
-B_BA11A.txt
-
-B_BA12A.txt
-
-B_BA13A.txt
-
-B_BA14A.txt
-
-B_BA15A.txt
-
-B_BA15B.txt
 
 B_BB01A.txt
 
@@ -251,7 +231,7 @@ B_EB02A.txt
 
 B_EB03A.txt
 
-|Orizuruhimenomikoto-hen| **C_BA01A.txt** (Father and Daughter/Pai e Filha) |0/133|0/133|0/133|
+| Orizuruhimenomikoto-hen | **C_BA01A.txt** (Father and Daughter/Pai e Filha) |0/133|0/133|0/133|
 
 C_BA02A.txt
 
@@ -275,7 +255,7 @@ C_BA11A.txt
 
 C_BA12A.txt
 
-|Aibetsuriku-hen| **C_CA01A.txt** (Bud/Broto) |0/79|0/79|0/79|
+| Aibetsuriku-hen | **C_CA01A.txt** (Bud/Broto) |0/79|0/79|0/79|
 
 C_CA02A.txt
 
@@ -303,7 +283,7 @@ C_CA13A.txt
 
 C_CA14A.txt
 
-C_EA01A.txt
+| Fukushuuhonryuu-hen | **C_EA01A.txt** (Visit/Visita) |0/193|0/193|0/193|
 
 C_EA01B.txt
 
@@ -325,7 +305,7 @@ C_EA08A.txt
 
 C_EA09A.txt
 
-C_FA01A.txt
+| Include in | **C_FA01A.txt** (Sin/Pecado) |0/183|0/183|0/183|
 
 C_FA02A.txt
 
