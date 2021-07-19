@@ -52,7 +52,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 ||**A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261|0/261|0/261|
 ||**A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
 ||**A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
-| Goshikizuka-hen（Common Route）|**B_AA01A.txt**||||
+| Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
 
 
 
