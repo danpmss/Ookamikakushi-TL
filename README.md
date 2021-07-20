@@ -33,7 +33,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 
 | Arc                                       | Files and Chapters                                                | Translation (lines)              | TL Check  | Editing |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
-| Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 102/454 (ENG) / 102/454 (PT-BR)  | 0/454     | 0/454   |
+| Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 204/454 (ENG) / 204/454 (PT-BR)  | 0/454     | 0/454   |
 || **A_AA02A.txt** (School/Escola) |0/413|0/413|0/413|
 || **A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
 || **A_AA04A.txt** (Mountain/Montanha) |0/481|0/481|0/481|
