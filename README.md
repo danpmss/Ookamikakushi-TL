@@ -33,27 +33,27 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 
 | Arc                                       | Files and Chapters                                                | Translation (lines)              | TL Check  | Editing |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- | ------- |
-| Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 328/454 (ENG) / 454/454 (PT-BR)  | 0/454     | 0/454   |
-|| **A_AA02A.txt** (School/Escola) |0/413 (ENG) / 40/413 (PT-BR)|0/413|0/413|
-|| **A_AA03A.txt** (Town/Cidade) |0/295|0/295|0/295|
-|| **A_AA04A.txt** (Mountain/Montanha) |0/481|0/481|0/481|
-|| **A_AA05A.txt** (Hospital) |0/275|0/275|0/275|
-|| **A_AA06A.txt** (Howl/Uivo) |0/77|0/77|0/77|
-|| **A_AA07A.txt** (Urban Legend/Lenda Urbana) |0/217|0/217|0/217|
-|| **A_AA08A.txt** (Something/Algo) |0/200|0/200|0/200|
-|| **A_AA09A.txt** (Sleep/Dormir) |0/259|0/259|0/259|
-|| **A_AA09B.txt** (Sleep/Dormir) |0/117|0/117|0/117|
-|| **A_AA10A.txt** (Moved Out/Mudou de Casa) |0/203|0/203|0/203|
-|| **A_AA10B.txt** (Moved Out/Mudou de Casa) |0/304|0/304|0/304|
-|| **A_AA11A.txt** (Obstruction/Obstrução) |0/92|0/92|0/92|
-|| **A_AA11B.txt** (Obstruction/Obstrução) |0/139|0/139|0/139|
-|| **A_AA12A.txt** (Legitimate Self-Defense/Legítima Defesa) |0/295|0/295|0/295|
-|| **A_AA12B.txt** (Legitimate Self-Defense/Legítima Defesa) |0/212|0/212|0/212|
-|| **A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261|0/261|0/261|
-|| **A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130|0/130|0/130|
-|| **A_AA14A.txt** (Death/Morte) |0/447|0/447|0/447|
-| Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322|0/322|0/322|
-|| **B_AA02A.txt** () |0/X|0/X|0/X|
+| Yomihirazaka-hen                          |  **A_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) | 454/454 (ENG) / 454/454 (PT-BR)  | 0/454     | 0/454   |
+|| **A_AA02A.txt** (School/Escola) |413/413 (ENG) / 413/413 (PT-BR)|0/413|0/413|
+|| **A_AA03A.txt** (Town/Cidade) |295/295 (ENG) / 295/295 (PT-BR)|0/295|0/295|
+|| **A_AA04A.txt** (Mountain/Montanha) |481/481 (ENG) / 481/481 (PT-BR)|0/481|0/481|
+|| **A_AA05A.txt** (Hospital) |275/275 (ENG) / 275/275 (PT-BR)|0/275|0/275|
+|| **A_AA06A.txt** (Howl/Uivo) |77/77 (ENG) / 77/77 (PT-BR)|0/77|0/77|
+|| **A_AA07A.txt** (Urban Legend/Lenda Urbana) |217/217 (ENG) / 217/217 (PT-BR)|0/217|0/217|
+|| **A_AA08A.txt** (Something/Algo) |200/200 (ENG) / 200/200 (PT-BR)|0/200|0/200|
+|| **A_AA09A.txt** (Sleep/Dormir) |259/259 (ENG) / 259/259 (PT-BR)|0/259|0/259|
+|| **A_AA09B.txt** (Sleep/Dormir) |117/117 (ENG) / 117/117 (PT-BR)|0/117|0/117|
+|| **A_AA10A.txt** (Moved Out/Mudou de Casa) |203/203 (ENG) / 203/203 (PT-BR)|0/203|0/203|
+|| **A_AA10B.txt** (Moved Out/Mudou de Casa) |304/304 (ENG) / 304/304 (PT-BR)|0/304|0/304|
+|| **A_AA11A.txt** (Obstruction/Obstrução) |92/92 (ENG) / 92/92 (PT-BR)|0/92|0/92|
+|| **A_AA11B.txt** (Obstruction/Obstrução) |139/139 (ENG) / 139/139 (PT-BR)|0/139|0/139|
+|| **A_AA12A.txt** (Legitimate Self-Defense/Legítima Defesa) |295/295 (ENG) / 295/295 (PT-BR)|0/295|0/295|
+|| **A_AA12B.txt** (Legitimate Self-Defense/Legítima Defesa) |36/212 (ENG) / 212/212 (PT-BR)|0/212|0/212|
+|| **A_AA12C.txt** (Legitimate Self-Defense/Legítima Defesa) |0/261 (ENG) / 261/261 (PT-BR)|0/261|0/261|
+|| **A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130 (ENG) / 130/130 (PT-BR)|0/130|0/130|
+|| **A_AA14A.txt** (Death/Morte) |0/447 (ENG) /298/447 (PT-BR)|0/447|0/447|
+| Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322 (ENG) / 322/322 (PT-BR)|0/322|0/322|
+|| **B_AA02A.txt** (School/Escola) |0/413|164/413|0/413|
 || **B_AA03A.txt** () |0/X|0/X|0/X|
 || **B_AA04A.txt** () |0/X|0/X|0/X|
 || **B_BA01A.txt** () |0/X|0/X|0/X|
