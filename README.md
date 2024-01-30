@@ -53,7 +53,7 @@ Ookamikakushi's anime is as much of a great adaptation as Chaos;Child's, enough 
 || **A_AA13A.txt** (Uncomfortable Feeling/Desconforto) |0/130 (ENG) / 130/130 (PT-BR)|0/130|0/130|
 || **A_AA14A.txt** (Death/Morte) |0/447 (ENG) /298/447 (PT-BR)|0/447|0/447|
 | Goshikizuka-hen（Common Route）|**B_AA01A.txt** (The Morning of the Beginning/A Manhã do Começo) |0/322 (ENG) / 322/322 (PT-BR)|0/322|0/322|
-|| **B_AA02A.txt** (School/Escola) |0/413|164/413|0/413|
+|| **B_AA02A.txt** (School/Escola) |0/413 (ENG) /298/413 (PT-BR)|164/413|0/413|
 || **B_AA03A.txt** () |0/X|0/X|0/X|
 || **B_AA04A.txt** () |0/X|0/X|0/X|
 || **B_BA01A.txt** () |0/X|0/X|0/X|
